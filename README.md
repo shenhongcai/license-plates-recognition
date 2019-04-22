@@ -12,7 +12,7 @@
 ##2.生成的车牌样张
 通过渲染车牌加上畸变、噪声、与自然环境结合生成车牌的样本。
 
-![]('https://github.com/shenhongcai/license-plates-recognition/blob/master/plate_pictures/H_云R9521RQB_W.jpg')
+![](https://github.com/shenhongcai/license-plates-recognition/blob/master/plate_pictures/H_云R9521RQB_W.jpg)
 
 the generated plate pictures are the  composing work of using distortion, adding Gaussian Noise, 
 combining the real scene background picture.
